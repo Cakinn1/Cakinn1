@@ -6,11 +6,6 @@
 - 🌱 I’m currently learning **Python & DSA.**
 
 ## Technical Skills
-- **Languages:**  
-  - HTML5 | CSS3 (+ SCSS, BEM) | JavaScript ES6+ | Typescript | TailwindCSS  
-
-- **Frameworks:**  
-  - React (+ hooks) | Next.js | Material-UI | Redux | Recoil 
-
-- **Technology:**  
-  - NPM | Git | Yarn | React dev tools | Firebase v9 | GitHub 
+- **Languages:** - HTML5 | CSS3 (+ SCSS, BEM) | JavaScript ES6+ | Typescript | TailwindCSS  
+- **Frameworks:** - React (+ hooks) | Next.js | Material-UI | Redux | Recoil 
+- **Technology:** - NPM | Git | Yarn | React dev tools | Firebase v9 | GitHub 
