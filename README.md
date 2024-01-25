@@ -1,10 +1,9 @@
 # Hi 👋, I'm Anthony
 
 ## Currently Working On
-- 🔭 I’m currently working on a Kanban task mangament app with reactjs and typeScript.
-- 🔭 I’m currently working on a Product feedback app with reactjs and typeScript.
+- 🔭 I’m currently working on an Open-source project with reactjs and tailwindcss within chin.
 - 🔭 I’m currently working on Invoice Tracker app with reactjs and typeScript.
-- 🔭 I’m currently working on an E-commerce project using [dummydata](https://dummyjson.com/).
+- 🔭 I’m currently updating my portfolio.
 - 🚀 I’m currently working on React Project challenges.  
 - 🌱 I’m currently learning **Python & DSA.**
 
