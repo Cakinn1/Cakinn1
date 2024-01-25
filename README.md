@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anthony
 
 ## Currently Working On
-- 🔭 I’m currently working on an Open-source project with reactjs and tailwindcss within chin.
+- 🔭 I’m currently working on an Open-source project with reactjs and tailwindcss.
 - 🔭 I’m currently working on Invoice Tracker app with reactjs and typeScript.
 - 🔭 I’m currently updating my portfolio.
 - 🚀 I’m currently working on React Project challenges.  
