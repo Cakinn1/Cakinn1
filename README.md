@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anthony
 
-- 🔭 I’m currently working on an online internship with Nextjs, Typescript and Firebase.
+- 🔭 I’m currently working on a sweet new project with Nextjs, Typescript, Firebase and stripe.
 - 🔭 I’m currently adding new features to my busy bee social media application [Busy Bee](https://github.com/Cakinn1/Busy-Bee).
 - 🔭 I’m currently revisting and revamping a lot of old projects and completeing them.
 - 🚀 I’m currently working on React Project challenges.  
