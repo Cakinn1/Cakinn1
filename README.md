@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A passionate Software Engineer interested in Frontend Engineering</h3>
 
-- 👨‍💻 All of my projects are available at [https://cakineportfolio.com/](https://cakineportfolio.com/)
+- 👨‍💻 All of my projects are available at https://portfolio-2024-ebon.vercel.app/
 
 - 📫 How to reach me **anthonycakin64@gmail.com**
 
